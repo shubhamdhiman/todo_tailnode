@@ -69,7 +69,7 @@ function App() {
 
   return (
     <div className="app">
-      <p className='heading'>TODO App</p>
+      <p className='heading'>TailNode TODO</p>
       <TodoInput addTodo={addTodo} />
       <div className="buttons">
         <button onClick={resetTodos} className="reset-button">
