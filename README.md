@@ -6,7 +6,7 @@ This is a simple offline TODO app built with React JS, designed to meet the spec
 
 ## Key Features
 
-- A simple input bar to add Todo(s) on pressing the return key.
+- A simple input bar to add Todo(s) on pressing the Enter key.
 - A list of TODO cards where each todo is appended on creation.
 - Clicking on a TODO card marks it as complete and moves it to the bottom of the list.
 - The active TODO cards appear in order of creation (most recent on top).
@@ -42,6 +42,9 @@ Basic CSS styles are applied to the app for a clean and simple design.
 ## Compatibility
 
 The app is designed to work in the latest versions of Google Chrome and Firefox.
+## Previews
+![1](https://github.com/shubhamdhiman/todo_tailnode/assets/18380165/3314bbe9-bfd7-4837-bfb8-72f39d7ee3df)
+![2](https://github.com/shubhamdhiman/todo_tailnode/assets/18380165/117240b6-a0a2-4712-bf29-b16d2113d30a)
 
 ## GitHub Repository
 
